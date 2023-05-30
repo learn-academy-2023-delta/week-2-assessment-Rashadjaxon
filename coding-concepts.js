@@ -10,8 +10,8 @@
 const cohort = "Delta 2023"
 // console.log(cohort.split(""))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: ['D', 'e', 'l', 't', 'a', ' ', '2', '0', '2', '3']
+// b) Verify and explain: The split() method is used to split a string into an array of substrings
 
 // --------------------2) What will this log?
 
@@ -20,16 +20,16 @@ const greeter = (name) => {
 }
 // console.log(greeter("LEARN Student"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: Hello LEARN Student
+// b) Verify and explain: received undefined, I think what happened is because i did'nt add a return 
 
 // --------------------3) What will this log?
 
 const multipliedByTwo = [4, 5, 6, 7, 8].map((number) => number * 2)
 // console.log(multipliedByTwo)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer:8, 10, 12, 14, 16
+// b) Verify and explain: this function will take in the array and apply the .map() function. .map function will iterate to all elements and multiply by 2.
 
 // --------------------4) What will this log?
 
