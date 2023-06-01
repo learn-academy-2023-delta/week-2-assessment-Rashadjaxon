@@ -36,8 +36,8 @@ const multipliedByTwo = [4, 5, 6, 7, 8].map((number) => number * 2)
 const onlyOdds = [11, 12, 13, 14, 15].filter((number) => number % 2 !== 0)
 // console.log(onlyOdds)
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: [11, 12, 13, 14, 15]
+// b) Verify and explain: 
 
 // --------------------5) What will this log?
 
@@ -49,8 +49,8 @@ const myCodingSkills = {
 }
 // console.log(myCodingSkills.languages[0])
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: "JavaScript"
+// b) Verify and explain: 0 returns the value 'Javascript' from inside 'myCodingSkills' under 'languages'
 
 // --------------------STRETCH: What will this log?
 
@@ -64,5 +64,5 @@ class Learn {
 const learnStudent = new Learn("George")
 // console.log(learnStudent)
 
-// a) Your answer:
+// a) Your answer: 
 // b) Verify and explain:
