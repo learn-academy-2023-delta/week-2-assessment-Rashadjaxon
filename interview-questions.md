@@ -47,12 +47,12 @@ Researched answer:
 
 Research and define the following terms to the best of your ability.
 
-1. Component:
+1. Component: components split the UI into saperate reusable pieces, their are Functional Components and Class Components
 
-2. Spread operator:
+2. Spread operator: Spread is used to make quickly copy  all or part of an existing array(s) or objects to another object or array
 
-3. React state:
+3. React state: The state object is where you store property values that belong to the component
 
-4. React props:
+4. React props: props stands for properties, which refers to the properties of an object
 
-5. DOM events:
+5. DOM events: events are a signal that something has occurred, or is occurring, and can be triggered by user interactions or by the browser

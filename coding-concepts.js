@@ -36,8 +36,8 @@ const multipliedByTwo = [4, 5, 6, 7, 8].map((number) => number * 2)
 const onlyOdds = [11, 12, 13, 14, 15].filter((number) => number % 2 !== 0)
 // console.log(onlyOdds)
 
-// a) Your answer: [11, 12, 13, 14, 15]
-// b) Verify and explain: 
+// a) Your answer: [ 11, 13, 15 ]
+// b) Verify and explain: returns an array with only odd numbers from the array using the .filter function
 
 // --------------------5) What will this log?
 
